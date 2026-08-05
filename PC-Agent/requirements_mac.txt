@@ -26,7 +26,7 @@ charset-normalizer==3.3.2
 comtypes==1.4.10
 contourpy==1.2.1
 crcmod==1.7
-cryptography==42.0.8
+cryptography==50.0.0
 cycler==0.12.1
 dashscope==1.20.0
 datasets==2.18.0
