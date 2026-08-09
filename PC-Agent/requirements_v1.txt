@@ -38,7 +38,7 @@ idna==3.7
 importlib_metadata==7.2.0
 Jinja2==3.1.4
 jmespath==0.10.0
-keras==2.9.0
+keras==3.15.0
 Keras-Preprocessing==1.1.2
 kiwisolver==1.4.5
 libclang==18.1.1
