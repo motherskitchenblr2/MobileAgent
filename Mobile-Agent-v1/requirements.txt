@@ -3,7 +3,7 @@ torchvision
 transformers
 modelscope==1.15.0
 TensorFlow==2.9.1
-keras==2.9.0
+keras==3.15.0
 opencv-python
 git+https://github.com/openai/CLIP.git
 matplotlib
