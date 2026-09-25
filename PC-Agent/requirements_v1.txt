@@ -123,7 +123,7 @@ tomli==2.0.1
 torch==2.3.1
 torchvision==0.18.1
 tqdm==4.66.4
-transformers==4.41.2
+transformers==5.10.1
 tzdata==2024.1
 urllib3==2.2.2
 wcwidth==0.2.13
