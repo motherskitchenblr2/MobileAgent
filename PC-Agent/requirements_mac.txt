@@ -78,7 +78,7 @@ multiprocess==0.70.16
 namex==0.0.8
 networkx==3.3
 numpy==1.24.3
-oauthlib==3.2.2
+oauthlib==4.0.0
 openai==1.66.2
 opt-einsum==3.3.0
 optree==0.11.0
