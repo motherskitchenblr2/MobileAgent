@@ -56,7 +56,7 @@ multiprocess==0.70.16
 namex==0.0.8
 networkx==3.3
 numpy==1.24.3
-oauthlib==3.2.2
+oauthlib==4.0.0
 opencv-python==4.10.0.84
 opencv-python-headless==4.10.0.84
 opt-einsum==3.3.0
