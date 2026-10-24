@@ -130,7 +130,7 @@ safetensors==0.4.3
 scikit-image==0.25.2
 scipy==1.13.1
 sentencepiece==0.2.0
-setuptools==75.8.0
+setuptools==84.1.0
 shapely==2.0.4
 simplejson==3.19.2
 six==1.16.0
